@@ -134,7 +134,9 @@ img {
 }
 
 .header-mail,
-.header-tel {
+.header-tel,
+.header-mail-icon,
+.header-tel-icon {
     display: block;
     transition: background-color 250ms linear, color 250ms linear;
 }

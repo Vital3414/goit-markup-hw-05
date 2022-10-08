@@ -137,7 +137,7 @@ img {
 .header-tel,
 .header-mail-icon,
 .header-tel-icon {
-    transition: background-color 250ms linear, color 250ms linear;
+    transition: color 250ms linear;
 }
 
 .header-list {
